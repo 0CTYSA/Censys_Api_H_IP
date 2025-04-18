@@ -78,7 +78,3 @@ Ingrese la IP: 1.1.1.1
 - **Tasa de peticiones**: Máx. 30 consultas/minuto
 - **Paginación**: Hasta 1,000 registros por página
 - **Créditos**: Cada consulta consume créditos de API
-
-## 📄 Licencia
-
-MIT License - Ver [LICENSE](LICENSE) para detalles.
